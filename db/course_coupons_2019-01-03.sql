@@ -1,11 +1,4 @@
 # ************************************************************
-# Sequel Pro SQL dump
-# Version 4541
-#
-# http://www.sequelpro.com/
-# https://github.com/sequelpro/sequelpro
-#
-# Host: 127.0.0.1 (MySQL 5.5.5-10.1.36-MariaDB)
 # Database: course_coupons
 # Generation Time: 2019-01-03 19:36:06 +0000
 # ************************************************************

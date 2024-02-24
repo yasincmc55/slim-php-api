@@ -31,12 +31,12 @@ LOCK TABLES `courses` WRITE;
 
 INSERT INTO `courses` (`id`, `title`, `couponCode`, `price`)
 VALUES
-	(1,'Vue.js Eğitimi','VUEJSAD',25.00),
-	(3,'Nuxt.js Eğitimi','NUXT4VUE',25.00),
+	(1,'JAVA Eğitimi','VUEJSAD',25.00),
+	(3,'NODE JS Eğitimi','NUXT4VUE',25.00),
 	(4,'Codeigniter ile CMS Eğitimi','VSCMSDISCOUNT',50.00),
 	(5,'MySQL Eğitimi','SQLDISCOUNT',20.00),
 	(7,'MySQL Eğitimi','SQLDISCOUNT',20.00),
-	(8,'RODE Kursu','RODENT',123.00),
+	(8,'LARAVEL Kursu','RODENT',123.00),
 	(9,'Vue Native ile Mobil Programlama','VUENATIVE',25.00),
 	(12,'GO Programlama Dili','GOGOGO',50.00),
 	(14,'Vuetify Eğitimi','VUETIFY',25.00);
